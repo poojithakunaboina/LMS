@@ -1,0 +1,22 @@
+.instructor-details {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .instructor-image {
+    width: 300px; /* Adjust the width as needed */
+    height: 420px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensures the image covers the area without distorting */
+    border-radius: 10px; /* Optional: gives the image slightly rounded corners */
+  }
+  
+  
+  .list-group-item {
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }

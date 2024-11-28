@@ -1,0 +1,19 @@
+
+/* src/component/About.css */
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  
+}
+
+.about-image {
+  width: 600px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 20px; /* Space between image and text */
+}
+
+.about-content {
+  max-width: 600px; /* Limit content width */
+}
